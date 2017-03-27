@@ -1,2 +1,2 @@
-# swjzz-proofreader
-proofreader for swjzz
+# swjzz-corpus
+說文解字注 in corpus format
